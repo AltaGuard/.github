@@ -1,3 +1,7 @@
+### Visualização Inicial: https://altaguard.doblezeta.com.br/
+### Repositório da API: https://github.com/AltaGuard/api
+### Repositório do FrontEnd: https://github.com/AltaGuard/app
+
 # **AltaGuard – Documentação Inicial**
 
 ## **1. Descrição do Projeto**
